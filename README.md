@@ -10,7 +10,7 @@ I'm a passionate high school student with a love for coding and technology. Curr
 - **Frontend Development:** React.js, Next.js, TailwindCSS
 - **Backend Development:** Node.js, Express.js, MongoDB, PostgreSQL
 - **Version Control:** Git, GitHub
-- **Other Tools:** VS Code, Postman, Firebase
+- **Other Tools:** VS Code, Postman
 
 ## Current Focus
 
